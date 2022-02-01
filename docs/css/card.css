@@ -1,0 +1,116 @@
+* { 
+    /*
+       _    ___  ____    _    ____ ___  ____  _____ 
+      / \  / _ \| __ )  / \  / ___/ _ \|  _ \| ____|
+     / _ \| | | |  _ \ / _ \| |  | | | | |_) |  _|  
+    / ___ \ |_| | |_) / ___ \ |__| |_| |  _ <| |___ 
+   /_/   \_\___/|____/_/   \_\____\___/|_| \_\_____|
+                                                    
+    Author: aobacore
+    Version: DOC 1.2
+    Date: 00:37:08, February 2, 2022
+    This CSS is only for personal use. 
+    It may be revoked or modified without notice at any time. Please be informed.
+    Character drawing generation: http://patorjk.com/software/taag Style: Standard
+    */  
+    
+  }   
+  a {
+    color: inherit;
+  text-decoration: none
+  }
+  .aside aside-user .user {
+  line-height: 1.2
+  }
+  .blogname {
+  color: #b9b9b9;
+  font-weight: 600;
+  margin-bottom: 5px
+  }
+
+  .blogname .ca-icon {
+  margin-left: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #241657
+  }
+  .blogname a {
+  color: #534979;
+  font-weight: 600;
+  font-size: 110%;
+  font-family: 寰蒋闆呴粦;
+  }
+
+  @keyframes shake-it {
+  0% {
+    text-shadow: 0 0 rgba(0,255,255,.5),0 0 rgba(255,0,0,.5)
+  }
+
+  25% {
+    text-shadow: -2px 0 rgba(0,255,255,.5),2px 0 rgba(255,0,0,.5)
+  }
+
+  50% {
+    text-shadow: -5px 0 rgba(0,255,255,.5),3px 0 rgba(255,0,0,.5)
+  }
+
+  100% {
+    text-shadow: 3px 0 rgba(0,255,255,.5),5px 0 rgba(255,0,0,.5)
+  }
+  }
+
+.icon {
+font-family: icon,pingfang sc,hiragino sans gb,wenquanyi micro hei,microsoft yahei,sans-serif!important;
+font-size: 16px;
+font-style: normal;
+margin-right: 5px;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale
+}
+
+      .card {
+      background-size: contain;
+      text-align: center;
+      padding: 0;
+    }
+    
+    .card h1 {
+      font-size: 20px;
+      margin: 5px auto 0;
+      letter-spacing: 1px;
+    }
+    .card h2 {
+      margin: auto;
+      color: #5c6170;
+      font-weight: 300;
+      font-size: 15px;
+    }
+    .card .button {
+      display: block;
+      text-decoration: none;
+      background: #666CD9;
+      color: #f9f9f9;
+      padding: 12px;
+      border: none;
+      border-radius: 25px;
+      margin-top: 30px;
+      font-size: 16px;
+      font-weight: 700;
+      min-width: 200px;
+      transition: 0.2s;
+    }
+    .card .button span {
+      font-size: 20px;
+      line-height: 1;
+      vertical-align: top;
+    }
+    .card .button:hover {
+      background: #5D4AD9;
+    }
+    .card img {
+    background-color: #ffffff;
+    border-radius: 10%;
+    margin: auto auto 15px;
+    display: block;
+    ｝
+    
