@@ -31,13 +31,3 @@
 ## 捐赠
 
 如果你觉得我提供的服务对你有所帮助，或者想对我微小的工作一点姿瓷，欢迎给我[捐赠](https://sponsor.foxdice.cn)
-
-## 切换主题
-
-<div class="demo-theme-preview">
-  <a data-theme="vue">vue.css</a>
-  <a data-theme="buble">buble.css</a>
-  <a data-theme="dark">dark.css</a>
-  <a data-theme="pure">pure.css</a>
-  <a data-theme="dolphin">dolphin.css</a>
-</div>
