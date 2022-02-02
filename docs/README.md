@@ -8,7 +8,7 @@
 </div>
 <h1 style="text-shadow: -2px 0 rgba(0, 255, 255, .5), 2px 0 rgba(255, 0, 0, .5);animation: shake-it .5s reverse infinite cubic-bezier(0.68, -0.55, 0.27, 1.55); text-align:center;" class="blogname">
 <span class="icon ca-icon">🦊</span>
-<a style=" color:#ffffff; font-size:80%;font-weight: 600; text-decoration:none; " href="https://www.aobacore.com/">贰狐</a>
+<a style=" font-size:80%;font-weight: 600; text-decoration:none; " href="https://www.aobacore.com/">贰狐</a>
 <span class="icon ca-icon">🦊</span>
 </h1>
 
@@ -31,3 +31,13 @@
 ## 捐赠
 
 如果你觉得我提供的服务对你有所帮助，或者想对我微小的工作一点姿瓷，欢迎给我[捐赠](https://sponsor.foxdice.cn)
+
+## 切换主题
+
+<div class="demo-theme-preview">
+  <a data-theme="vue">vue.css</a>
+  <a data-theme="buble">buble.css</a>
+  <a data-theme="dark">dark.css</a>
+  <a data-theme="pure">pure.css</a>
+  <a data-theme="dolphin">dolphin.css</a>
+</div>

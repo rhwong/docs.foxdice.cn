@@ -1,6 +1,6 @@
 * 骰子机器人
 * 
-  * [简介](dice.md)
+  * [简述](dice.md)
   * 指令指南
     * [Dice!2](dice-w4123.md)
     * [OlivaDice2](oliva2.md)
@@ -27,5 +27,5 @@
 * [Drawpile](Drawpile.md)
 
 * [TeamSpeak3](TeamSpeak3.md)
-* 
+
 * [DiceChat 平台](DiceChat.md) 

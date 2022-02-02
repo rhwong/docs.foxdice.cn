@@ -7,37 +7,32 @@
   <meta name="description" content="贰狐提供的服务の文档页面">
   <link rel="shortcut icon" href="https://www.aobacore.com/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!--nav>
-    <a href="#/">简体中文</a>
-    <a href="#/tc/">繁體中文</a>
-    <a href="#/en/">EN</a>
-  </nav-->
-  <link
-  rel="stylesheet"
-  href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
-  title="vue"
-  disabled
-  />
-  <link
-  rel="stylesheet"
-  href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"
-  title="dark"
-  />
-  <link
-  rel="stylesheet"
-  href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"
-  title="buble"
-  disabled
-  />
-  <link
-  rel="stylesheet"
-  href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css"
-  title="pure"
-  disabled
-  />
+  <script>
+    if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
+      document.documentElement.style.display = 'none';
+      document.head.insertAdjacentHTML(
+        'beforeend',
+        '<link rel="stylesheet" href="../css/light.css" onload="document.documentElement.style.display = \'\'">',
+      );
+    }
+  </script>
+
+  <link rel="stylesheet" href="../css/dark.css" media="(prefers-color-scheme: dark)"/>
+  <link rel="stylesheet" href="../css/light.css" media="(prefers-color-scheme: light)"/>
+    <!--#42b07e深色主题色绿色#ea6f5a粗体用橙色#00ff12代码用绿色-->
   <link rel="stylesheet" href="../css/card.css">
 
 <style>
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  color: var(--color);
+  background-color: var(--background-color);
+}
+
   nav.app-nav li ul {
     min-width: 100px;
   }
@@ -84,6 +79,14 @@
       //根据侧边栏生成页面标题
       autoHeader: true,
       ga: 'UA-106147152-1' ,
+      //字数统计
+      count:{
+      countable:true,
+      fontsize:'0.9em',
+      color:'rgb(90,90,90)',
+      language:'chinese'
+      },
+
       //全文搜索
       search: {
           noData: {
@@ -203,6 +206,9 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-nginx.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <script>
     (function() {
       function loadJS(src, attrs) {
