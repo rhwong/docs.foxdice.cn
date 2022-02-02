@@ -7,6 +7,8 @@
 	-webkit-touch-callout:none;
 	box-sizing:border-box
 }
+
+
 body:not(.ready) {
 	overflow:hidden
 }
@@ -46,7 +48,8 @@ div#app:empty:before {
 	font-weight:700
 }
 body,html {
-	height:100%
+	height:100%;
+    background-color:#1f1f1f    
 }
 body {
 	-moz-osx-font-smoothing:grayscale;
