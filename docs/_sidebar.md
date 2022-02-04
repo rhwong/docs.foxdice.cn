@@ -12,11 +12,7 @@
     * [Dice!2](dice-w4123.md)
     * [OlivaDice2](oliva2.md)
     * [OlivaDice3](oliva3.md)
-  * 骰娘介绍
-	* [艾雅法拉](Eyjafjalla.md)
-	* [白面鸮](Ptilopsis.md)
-	* [豆苗](Beanstalk.md)
-	* [铃兰](Suzuran.md)
+  * [骰娘索引](DiceQ.md)
 
 
 
