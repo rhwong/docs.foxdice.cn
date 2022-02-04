@@ -1,6 +1,6 @@
 * 联机工具
 * 
-  * [SakuraFRP (简易教程)](SFRP.md)
+  * [SakuraFRP (简易教程)](SakuraFRP.md)
   * [EasyN2N](Easyn2n.md)
   * [L2TP 异地组网](L2TP.md)
   * [大狐狐FRP](FRP.md)
