@@ -1,3 +1,8 @@
+* 东方异文石 联机示例
+* 
+  * [SakuraFRP](SFRP.md)
+  * [快速开始](FRP-Quickstart.md)
+
 * 骰子机器人
 * 
   * [简述](dice.md)
@@ -29,3 +34,4 @@
 * [TeamSpeak3](TeamSpeak3.md)
 
 * [DiceChat 平台](DiceChat.md) 
+
