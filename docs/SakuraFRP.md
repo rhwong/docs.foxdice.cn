@@ -1,5 +1,5 @@
 
- > 此教程由[SakuraFRP官方文档](https://doc.natfrp.com/)修改而来
+ > 此教程由 [SakuraFRP官方文档](https://doc.natfrp.com/) 修改而来
 
 ## 图文安装教程
 
