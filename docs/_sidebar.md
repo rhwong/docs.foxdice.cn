@@ -1,7 +1,9 @@
-* 东方异文石 联机示例
+* 联机工具
 * 
-  * [SakuraFRP](SFRP.md)
-  * [快速开始](FRP-Quickstart.md)
+  * [SakuraFRP (简易教程)](SFRP.md)
+  * [EasyN2N](Easyn2n.md)
+  * [L2TP 异地组网](L2TP.md)
+  * [大狐狐FRP](FRP.md)
 
 * 骰子机器人
 * 
@@ -16,14 +18,7 @@
 	* [豆苗](Beanstalk.md)
 	* [铃兰](Suzuran.md)
 
-* 大狐狐FRP
-* 
-  * [简介](FRP.md)
-  * [快速开始](FRP-Quickstart.md)
 
-* [L2TP 异地组网](L2TP.md)
-
-* [EasyN2N](Easyn2n.md)
 
 * [花园Serena](Serena.md)
 
