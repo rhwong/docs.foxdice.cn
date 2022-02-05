@@ -1,18 +1,10 @@
 > 原文地址：https://v2docs.kokona.tech/zh/latest/User_Manual.html 引用时间：2022-02-02
 
-
-
-# 简述
-
-### Dice!是什么？
-
-Dice! 是一款开源免费，基于[酷Q](http://cqp.cc/) 或者[Mirai](https://github.com/mamoe/mirai) 的QQ掷骰机器人，由溯洄使用C++语言编写，主要由Visual Studio编译(现在也可以用GCC/Clang等)
-
 # Dice! 用户手册
 
-本手册对应Dice!2.6.0版本，为用户指令提供说明。管理权限使用的指令请参考[Master手册](https://shiki.stringempty.xyz/Manual/Shiki_Master_Manual.html)。[点此下载本手册](https://shiki.stringempty.xyz/download/Shiki_User_Manual.pdf)![](_static/demo_bot.jpg)
+本手册对应Dice!2.6.0版本，为用户指令提供说明。管理权限使用的指令请参考[Master手册](https://shiki.stringempty.xyz/Manual/Shiki_Master_Manual.html)。[点此下载本手册](https://shiki.stringempty.xyz/download/Shiki_User_Manual.pdf)![](_static/demo_bot.jpg':size=50%')
 
-[TOC]
+
 
 ## 注意事项
 
@@ -29,17 +21,17 @@ Dice! 是一款开源免费，基于[酷Q](http://cqp.cc/) 或者[Mirai](https:/
 - 裸指令：直接以.(。!！)开头发送消息，群内所有非停用状态的骰子都会响应该指令。
 - 指名：在指令前@骰子，未指名的骰子将不会响应指令；被指名的骰子如果未关闭DisabledListenAt选项，即使在停用状态也会响应指令；需要对复数骰子发送指令时，可以"@骰子1@骰子2[...@骰子n].指令"；QQ回复消息本身视为开头带一个@
 
-  ![](_static/demo_at_order.jpg)
+  ![](_static/demo_at_order.jpg ':size=50%')
 
 ## .help 帮助文档
 - `.help` 查看帮助(strHlpMsg)
 - `.help [词条名]` 查看对应帮助文档
 
-![](_static/demo_help_donate.jpg)
+![](_static/demo_help_donate.jpg ':size=50%')
 
 *当词库中不存在同名条目时，会建议最接近的条目
 
-![](_static/demo_help_match.jpg)
+![](_static/demo_help_match.jpg ':size=50%')
 
 ## .bot on/off 指令开关（群聊使用）
 

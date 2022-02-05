@@ -34,7 +34,7 @@
 
 !> `127.0.0.1` 是回送地址，在所有网络设备上，都指程序运行的当前本机
 
-![bigfox_frp_01](_static\bigfox_frp_01.png)
+![bigfox_frp_01](_static\bigfox_frp_01.png ':size=80%')
 
 然后直接忽略 ***高级设置** ，直接向下滚动，点击 **完成创建**
 
