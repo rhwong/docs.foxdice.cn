@@ -29,7 +29,7 @@
 然后运行 `SakuraLauncher.exe`  
 ![](_static/usage-2.png)
 
-进入 [用户信息](https://www.natfrp.com/user/profile ':target=_blank') 页面，复制 **访问密钥** 到启动器的 **设置** 选项卡中的顶部，点击 **登录**
+进入 [首页](https://www.natfrp.com/user/ ':target=_blank') 页面，点击 **查看访问密钥** 并复制访问密钥到启动器的 **设置** 选项卡中的顶部，点击 **登录**
 
 ![](_static/usage-3.png)
 
