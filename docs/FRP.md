@@ -1,14 +1,13 @@
+> 本站采用 [免费许可](https://github.com/ZeroDream-CN/SakuraPanel/blob/master/LICENSE)，不用于出租盈利，且同时限制**用户**仅可用于个人非盈利使用。
 ## 简介
 
-[大狐狐 Frp](https://sakura.zerda.top/) 是由 [贰狐](https://www.aobacore.com/) 使用 [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) 面板搭建的免费内网穿透服务，旨在方便大家游戏联机
+[大狐狐 Frp](https://sakura.zerda.top/) (https://sakura.zerda.top)是由 [贰狐](https://www.aobacore.com/) 使用 [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) 面板搭建的免费内网穿透服务，旨在方便大家游戏联机
 
 使用的服务器并非高并发高负载的专用服务器，仅仅是我目前闲置中相对带宽较高的服务器
 
 ~~有高带宽服务器，但是由于流量费用过高暂时不考虑惹，等一个赞助商~~
 
-!> 本站采用 [免费许可](https://github.com/ZeroDream-CN/SakuraPanel/blob/master/LICENSE)，不用于出租盈利，且同时限制**用户**仅可用于个人非盈利使用。
-
-## 注册
+## 注册账户
 
 ?> [点此跳转注册页面](https://sakura.zerda.top/?page=register)
 
@@ -89,6 +88,8 @@
 !> 若程序闪退，请检查配置文件或在网站检查账户状态
 
 ## 加入房间
+
+!> 只有主机需要运行Frp程序，直接玩家直接联机即可
 
 远程服务器的IP和所穿透的端口号在配置文件中即可查看
 

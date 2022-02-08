@@ -5,7 +5,7 @@
 
 !> Windows7 用户请首先安装运行库 [.NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
 
-注册过程及实名过程略！
+官方网站：https://www.natfrp.com/   注册过程及实名过程略！
 
 登录管理面板，转到 **[软件下载](https://www.natfrp.com/tunnel/download)** 页面：
 
@@ -63,6 +63,8 @@
 转到日志选项卡可以复制穿透节点的`IP`和`端口`
 
 ![](_static/usage-9.png)
+
+!> 其他玩家不需要运行Sakura Frp，直接联机即可
 
 其他玩家在游戏中输入节点`IP`和`端口`就能联机了
 
