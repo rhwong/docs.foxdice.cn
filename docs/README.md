@@ -18,7 +18,7 @@
 
 ## 项目列表
 
-- [骰子机器人](dice.md)
+- [骰子Bot](dice.md)
 - [FRP内网穿透](FRP.md)  
 - [L2TP 异地组网服务](L2TP.md)
 - [EasyN2N 异地组网服务](Easyn2n.md)
