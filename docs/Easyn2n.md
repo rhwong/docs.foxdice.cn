@@ -133,6 +133,11 @@
 
 注意：`-S` 是大写的S，第一行 `-I` 参数为程序自动生成，用于标注电脑ID，如非必要请勿修改
 
+### 没有绿色对勾？
+
+点击`运行日志`，若发现日志在滚动 `ERROR: authentication error, MAC or IP address already in use or not released yet by supernode` 错误信息
+
+这是由于你频繁断连此服务器所导致，服务器分配的IP暂未释放。这种情况可以更换节点，或1分钟后再试
 
 > 参考资料：[EasyN2N(N2N启动器)][1]
 
