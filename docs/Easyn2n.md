@@ -35,7 +35,7 @@
 
 ![03](_static/Easy_N2N_03.png)
 
-上图中这样显示**绿色对钩**才是连接成功！若没有绿色对勾则并未成功连接。<a class="section-link" href="#/Easyn2n?id=%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4" title="故障排除">连接失败？</a>
+上图中这样显示**绿色对钩**才是连接成功！若没有绿色对勾则并未成功连接。<a class="section-link" href="#/Easyn2n?id=%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4" title="故障排除">连接失败？</a>  
 
 由于很多人反馈看不到房间，建议一定要执行 <font color=red><strong>关闭防火墙</strong></font> 和 <font color=red><strong>修改跃点</strong></font> 操作
 
@@ -101,6 +101,12 @@
 
 **解决方案**：如果一直出现无法连接的问题，请尝试更换其他服务器，如官方提供的快速选择中的服务器进行尝试。
 
+### 已连接但没有绿色对勾？
+
+点击`运行日志`，若发现日志在滚动 `ERROR: authentication error, MAC or IP address already in use or not released yet by supernode` 错误信息
+
+这是由于你频繁断连此服务器所导致，服务器分配的IP暂未释放。这种情况可以更换节点，或1分钟后再试
+
 ### 无法连接其他人
 
 **解决方案：**点击主页底部的`测试工具`，在弹出的测试工具页面中，点击 `网卡优先级`页面 ，按照图中操作，将 `TAP-Windows Adapter V9` 网卡的跃点数改成所有网卡中最低的，然后点击保存。
@@ -132,12 +138,6 @@
 ![image-20220311142852408](https://img.foxdice.cn/images/2022/03/11/image-20220311142852408.png)
 
 注意：`-S` 是大写的S，第一行 `-I` 参数为程序自动生成，用于标注电脑ID，如非必要请勿修改
-
-### 没有绿色对勾？
-
-点击`运行日志`，若发现日志在滚动 `ERROR: authentication error, MAC or IP address already in use or not released yet by supernode` 错误信息
-
-这是由于你频繁断连此服务器所导致，服务器分配的IP暂未释放。这种情况可以更换节点，或1分钟后再试
 
 > 参考资料：[EasyN2N(N2N启动器)][1]
 
