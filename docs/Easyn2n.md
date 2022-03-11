@@ -9,7 +9,7 @@
 
 ## 快速使用
 
-[点击下载](https://docs.foxdice.cn/file/EasyN2N2.3(BFS20220201).zip)后，请在任意位置完整 **解压缩** ，切勿在压缩包内直接运行
+[点击下载](https://docs.foxdice.cn/file/EasyN2N2.4(BFS20220311).zip)后，请在任意位置完整 **解压缩** ，切勿在压缩包内直接运行
 
 首次使用时会提示安装虚拟网卡 `TAP-Windows Adapter V9` 请点击`安装`
 
