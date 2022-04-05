@@ -11,7 +11,9 @@
 
 每个玩家都需要运行本工具才能正常游玩！
 
-[下载节点1](https://dl.114514444.xyz/thad/EasyN2N_FoxdiceCN.zip) [下载节点2](https://foxdice.cn/thad/EasyN2N_FoxdiceCN.zip)后，请在任意位置完整 **解压缩** ，切勿在压缩包内直接运行
+[点击下载](https://dl.114514444.xyz/thad/EasyN2N_FoxdiceCN.zip)    [备用下载地址](https://foxdice.cn/thad/EasyN2N_FoxdiceCN.zip)
+
+下载后，请在任意位置完整 **解压缩** ，切勿在压缩包内直接运行
 
 首次使用时有可能会提示安装虚拟网卡 `TAP-Windows Adapter V9` 如果提示，请点击`安装`
 
