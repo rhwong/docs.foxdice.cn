@@ -371,6 +371,9 @@ body.sticky .sidebar,body.sticky .sidebar-toggle {
 	text-align:center;
 	top:14px
 }
+.markdown-section::before {
+  content: none !important;
+}
 .markdown-section p.tip code {
 	background-color:#efefef
 }
