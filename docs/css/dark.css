@@ -291,13 +291,16 @@ body.sticky .sidebar,body.sticky .sidebar-toggle {
 	position:fixed
 }
 .content {
-	padding-top:60px;
-	position:absolute;
-	top:0;
-	right:0;
-	bottom:0;
-	left:300px;
-	transition:left .25s ease
+  padding-top: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 300px;
+  transition: left .25s ease;
+  background-color: #1f1f1f; 
+  background-color: var(--background-color, #1f1f1f);
+  z-index: 1; 
 }
 .markdown-section {
 	margin:0 auto;
