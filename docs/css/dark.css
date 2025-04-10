@@ -792,3 +792,37 @@ input[type=search] {
 .blogname a {
 	color:#ffffff;
 }
+css
+/* 关键修复 - 新增层叠控制 */
+main {
+  contain: strict; /* 阻止复合层意外渲染 */
+  background: #1f1f1f; /* 强制主容器背景 */
+}
+
+/* 修复内容区域 */
+.content {
+  background: linear-gradient(
+    to bottom,
+    transparent 60px, 
+    #1f1f1f 60px
+  );
+  mix-blend-mode: normal !important; /* 禁用混合模式 */
+}
+
+/* 清除伪元素干扰 */
+.content::after {
+  content: '';
+  position: fixed;
+  top: 60px;
+  left: 300px;
+  right: 0;
+  bottom: 0;
+  background: #1f1f1f;
+  z-index: -1; /* 确保在内容层下方 */
+}
+
+/* 安全提示框适配 */
+#windows-security-alert {
+  background: rgba(31,31,31,0.95) !important; /* 深灰半透明 */
+  backdrop-filter: blur(2px);
+}
