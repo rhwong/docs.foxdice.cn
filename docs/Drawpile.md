@@ -4,7 +4,7 @@
 
 点击上方菜单栏的`房间`->`创建`，或欢迎界面的 `创建房间` 按钮
 
-![创建房间](/_static/drawpile-1.jpg)
+![创建房间](_static/drawpile-1.jpg)
 
 简易流程一般来说只需要2步
 
@@ -50,11 +50,11 @@
 
 https://list.dp.foxdice.cn 单击 检查 按钮
 
-![订阅本社区列表](/_static/drawpile-2.jpg)
+![订阅本社区列表](_static/drawpile-2.jpg)
 
 您可以在创建房间时，单击 列表 选项卡，设置您的房间的相关信息。点击右下角的 添加 按钮，可以选择您想要广播至的列表服务器。
 
-![推送列表](/_static/drawpile-3.jpg)
+![推送列表](_static/drawpile-3.jpg)
 
 推荐您同时订阅官方列表 https://pub.drawpile.net/listing 
 
