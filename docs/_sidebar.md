@@ -3,7 +3,6 @@
   * [SakuraFRP](SakuraFRP.md)
   * [大狐狐FRP](FRP.md)
   * [EasyN2N](Easyn2n.md)
-  * [L2TP 异地组网](L2TP.md)
 
 
 * 骰子机器人
@@ -18,7 +17,5 @@
 * [lolimage 图床](lolimage.md)
 
 * [Drawpile](Drawpile.md)
-
-* [TeamSpeak3](TeamSpeak3.md)
 
 
