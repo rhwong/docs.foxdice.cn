@@ -4,11 +4,7 @@
 
 点击`房间`->`服务器`
 
-![image-20220217003730969](https://img.foxdice.cn/images/2022/02/17/image-20220217003730969.png)
-
-输入信息
-
-![image-20220217004026810](https://img.foxdice.cn/images/2022/02/17/image-20220217004026810.png)
+![创建房间](https://i1.hdslb.com/bfs/article/a33f0519dcf7cf0011ac17562621a74920947164.png@1192w.avif)
 
 简易流程一般来说只需要2步
 
@@ -54,7 +50,11 @@
 
 https://list.dp.foxdice.cn 单击 检查 按钮
 
+![订阅本社区列表](https://i1.hdslb.com/bfs/article/92c3f0c7552312e8bb186521dd3677c020947164.png@1192w.avif)
+
 您可以在创建房间时，单击 列表 选项卡，设置您的房间的相关信息。点击右下角的 添加 按钮，可以选择您想要广播至的列表服务器。
+
+![推送列表](https://i1.hdslb.com/bfs/article/d6f293ad6dbce6a8ffcfa958b169b69520947164.png@1192w.avif)
 
 推荐您同时订阅官方列表 https://pub.drawpile.net/listing 
 
