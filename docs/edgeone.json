@@ -1,6 +1,6 @@
 "caches": [
     {
       "source": "/css/*.css",
-      "cacheTtl": 0
+      "cacheTtl": 3600
     }
   ]
