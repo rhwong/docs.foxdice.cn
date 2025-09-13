@@ -4,7 +4,7 @@
 >
 
 ## 关于我
-<div class="card"><a href="https://www.aobacore.com/"><img src="https://q1.qlogo.cn/g?b=qq&nk=1065033193&s=640" height="150" width="150" /></a>
+<div class="card"><a href="https://www.aobacore.com/"><img src="https://q1.qlogo.cn/g?b=qq&nk=1735450&s=640" height="150" width="150" /></a>
 </div>
 <h1 style="text-shadow: -2px 0 rgba(0, 255, 255, .5), 2px 0 rgba(255, 0, 0, .5);animation: shake-it .5s reverse infinite cubic-bezier(0.68, -0.55, 0.27, 1.55); text-align:center;" class="blogname">
 <span class="icon ca-icon">🦊</span>
